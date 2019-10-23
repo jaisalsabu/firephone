@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "59468485056",
+    "firebase_url": "https://firephonr-8fff1.firebaseio.com",
+    "project_id": "firephonr-8fff1",
+    "storage_bucket": "firephonr-8fff1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59468485056:android:bcb5508b9132d0dbdc7825",
+        "android_client_info": {
+          "package_name": "com.example.firephone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59468485056-ld79d2e4g3sqvjp6k82ttha5v8pu3jka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_D2_mTSzHEUYPj8PsWBhQOMhEi6sE_0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59468485056-ld79d2e4g3sqvjp6k82ttha5v8pu3jka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
